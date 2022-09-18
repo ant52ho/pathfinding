@@ -10,6 +10,7 @@
 ###### 3. Store it in the same directory as "path.py"
 ###### 4. Run path.py
 ###### 5. Follow the onscreen prompts after installing dependencies.
+###### 6. The solved maze will be stored in "final.png"
 
 #
 #### This project brings me many fond memories~
