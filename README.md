@@ -13,7 +13,7 @@
 ###### 6. The solved maze will be stored in "final.png"
 
 #
-#### This project brings me many fond memories~
+#### This project brings back many fond memories~
 ##
 #### <sub>Thank you Mr. Fryer-Davis</sub>
 
